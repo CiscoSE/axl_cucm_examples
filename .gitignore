@@ -1,0 +1,4 @@
+phones.txt
+venv/
+.DS_Store
+*.pyc
